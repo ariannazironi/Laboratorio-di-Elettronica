@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "calibrazione.C": "cpp",
+        "Fit_silicio.C": "cpp",
+        "Fit_germanio.C": "cpp"
+    }
+}

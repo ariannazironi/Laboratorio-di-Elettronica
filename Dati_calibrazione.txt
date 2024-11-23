@@ -1,0 +1,10 @@
+Oscilloscopio (mV)	Multimetro (mV)	Sigma oscilloscopio (mV)	Sigma multimetro (mV)
+50	38.2	1.5	0
+100	89.6	3	0
+200	188.1	6	0
+300	284.7	9	0
+400	383.3	12	0
+500	483.2	15	0
+600	582.8	18	0
+700	670	21	0
+800	774	24	0
